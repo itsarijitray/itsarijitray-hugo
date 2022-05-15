@@ -1,0 +1,5 @@
+baseURL = 'https://itsarijitray.github.io/'
+languageCode = 'en-us'
+title = 'Hi👋, Its Arijit Ray '
+theme = 'hugo-profile'
+
